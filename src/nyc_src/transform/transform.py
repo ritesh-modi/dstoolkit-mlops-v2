@@ -58,7 +58,7 @@ def main(clean_data, transformed_data):
 
 def transform_data(combined_df):
     """
-    Transform a dataframe to prepare it for training.
+    Transform a dataframe to prepare it for training it.
 
     The method is implementing data cleaning and normalization
 
